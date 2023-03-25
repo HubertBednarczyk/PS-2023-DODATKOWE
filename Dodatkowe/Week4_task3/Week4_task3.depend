@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679745762 source:c:\studia\czwarty semestr\programowanie strukturalne\ps-2023-dodatkowe\dodatkowe\week4_task3\main.c
+	<stdio.h>
+	<stdlib.h>
+
